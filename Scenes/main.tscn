@@ -845,10 +845,12 @@ text = "Pixelation"
 
 [node name="checkbox_clouds" type="CheckBox" parent="CanvasLayer/Control/PanelContainer/HBoxContainer/VBoxContainer"]
 layout_mode = 2
+button_pressed = true
 text = "Clouds"
 
 [node name="checkbox_outline" type="CheckBox" parent="CanvasLayer/Control/PanelContainer/HBoxContainer/VBoxContainer"]
 layout_mode = 2
+button_pressed = true
 text = "Outline"
 
 [node name="MarginContainer3" type="MarginContainer" parent="CanvasLayer/Control/PanelContainer/HBoxContainer/VBoxContainer"]
